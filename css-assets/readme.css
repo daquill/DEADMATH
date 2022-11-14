@@ -1,0 +1,20 @@
+.header {text-size: 20px;}
+
+
+
+/* Color Classes */
+.c.red {color: red;}
+.c.blue {color: blue;}
+.c.green {color: green;}
+.c.gold {color: gold;}
+.c.yellow {color: yellow;}
+
+/* Smart Formatting Classes */
+
+.s.bold {font-weight: 700;}
+.s.italic {font-style: italic;}
+.s.underline {text-decoration: underline;}
+
+/* Indentation Classes */ 
+
+.i.indent1 {text-indent: 15px;}

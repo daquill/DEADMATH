@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #CCCCCC
+  }
+.announcement {
+  overflow: hidden;
+  background-color: #312525;
+  color: #ffffff;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  }
+a {color: greenyellow;}
+
+.page {
+    border: 3px solid #fff;
+    padding: 2px;
+}
+
+.pane {
+    width: 45%;
+    float: left;
+    padding: 2px;
+    border: 4px solid black;
+}  
+.panel {
+    width: 45%;
+    float: right;
+    padding: 2px;
+    border: 4px solid #000000;
+}  
