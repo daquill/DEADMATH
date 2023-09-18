@@ -30,3 +30,27 @@ a {color: greenyellow;}
     padding: 2px;
     border: 4px solid #000000;
 }  
+
+  
+.container {
+  display: flex;
+}
+
+.progress-panel, .changelog {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+}
